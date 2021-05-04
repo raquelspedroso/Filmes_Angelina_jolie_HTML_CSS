@@ -1,0 +1,110 @@
+
+/*imagem de fundo da página*/
+body {
+      background-image: url('../Imagem/imagem\ 2.jpg');
+      background-size: cover;
+      background-position: center top;
+}
+
+/* #Quadro = a imagem do topo da página*/
+#Quadro {
+      height: 200px;
+      width: 800px;
+      margin: 20px auto;
+      background-image: url('../Imagem/images\ \(1\).jpg');
+      background-size: cover;
+}
+
+/*imagens do centro da página*/
+.container {
+            justify-content: space-evenly;
+            text-align: center;
+            margin: 20px auto;
+}   
+
+/*tutulo principal da página*/
+
+.page-title {
+            font-size: 150px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            color: #ffffff;
+            margin: 30px auto;
+}
+  
+.page-subtitle {
+            font-size: 20px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            color: #ffffff;
+            text-align: justify;
+            margin: 30px;
+}
+
+.titulo1 {
+            height: 20px;
+            width: 200px;
+            margin: 10px auto;
+            font-size: 150px large;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            background-size: cover;  
+            background-color: chocolate;
+      }
+
+.titulo2 {
+            height: 20px;
+            width: 200px;
+            margin: 10px auto;
+            font-size: 150px large;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            background-size: cover;  
+            background-color: chocolate;
+}
+
+.titulo3 {
+            height: 20px;
+            width: 200px;
+            margin: 10px auto;
+            font-size: 150px large;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            background-size: cover;  
+            background-color: chocolate;
+}
+
+.titulo4 {
+            height: 20px;
+            width: 200px;
+            margin: 10px auto;
+            font-size: 150px large;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            background-size: cover;  
+            background-color: chocolate;
+}
+
+.titulo5 {
+            height: 20px;
+            width: 200px;
+            margin: 10px auto;
+            font-size: 150px large;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            background-size: cover;  
+            background-color: chocolate;
+}
+
+.titulo6 {
+            height: 20px;
+            width: 200px;
+            margin: 10px auto;
+            font-size: 150px large;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            background-size: cover;  
+            background-color: chocolate;
+}
+
+.titulo7 {
+            height: 20px;
+            width: 200px;
+            margin: 10px auto;
+            font-size: 150px large;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            background-size: cover;  
+            background-color: chocolate;
+}
